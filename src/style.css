@@ -1,1 +1,20 @@
 /* styles go here */
+
+.form-block {
+  margin-bottom: 20px;
+}
+
+.form-field:not(:last-child) {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.form-area:not(:last-child) {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.form-area .textarea {
+  display: block;
+  margin-bottom: 10px;
+}
