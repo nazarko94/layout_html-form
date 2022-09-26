@@ -1,4 +1,9 @@
 /* styles go here */
+
+.form-block {
+  margin-bottom: 20px;
+}
+
 .form-field:not(:last-child) {
   display: block;
   margin-bottom: 10px;
@@ -10,6 +15,6 @@
 }
 
 .form-area .textarea {
-  display: block;
+  /* display: block; */
   margin-bottom: 10px;
 }
